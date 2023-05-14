@@ -13,3 +13,7 @@ print(q.subject)
 q.subject = 'new subject'
 q.save()
 ```
+
+```
+working on static
+```
